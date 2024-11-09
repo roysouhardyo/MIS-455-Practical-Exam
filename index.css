@@ -1,0 +1,14 @@
+body {
+  font-family: Arial, sans-serif;
+  background-color: #cac8c8;
+  height: 800px;
+}
+
+.navbar {
+  background-color: rgba(0, 0, 0, 0.692);
+  padding: 7px 0;
+  border-radius: 10px;
+  margin-left: 21px;
+  margin-right: 21px;
+  margin-top: 21px;
+}
