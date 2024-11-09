@@ -1,0 +1,17 @@
+.contact-container {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  min-height: 100vh;
+  background-color: rgb(163, 252, 203);
+}
+
+/* Style the outer box */
+.contact-box {
+  width: 100%;
+  max-width: 500px;
+  padding: 20px;
+  background-color: #e63e4c;
+  border-radius: 8px;
+  text-align: center;
+}
